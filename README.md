@@ -10,8 +10,8 @@ The repository is structured as follows:
 
 - **identified_sybils folder**: holds the list of identified Sybils for the alpha round that was used for post mortem analysis and also the beta round identified Sybils.
 - **queried_data folder**: contains all the wallet information queried for each supporter address.
-- **sybil_research_data folder**: contains the data provided by the ODC for the beta and alpha round (which is currently replaced with a link to the dataset on Ocean.
-- **voters folder**: contains the list of voters and their votes to grants alpha and beta round.
+- **sybil_research_data folder**: contains the data provided by the ODC for the beta and alpha round (which is currently replaced with a link to the dataset on Ocean.)
+- **voters folder**: contains the list of voters and their votes to grants alpha and beta round (which is currently replaced with a link to the dataset on Ocean.)
 - **report.pdf**: a summary of the analytics process.
 - **voters.ipynb**: a Jupyter notebook that houses all the code used.
 - **TDD**: a script that calculates the TDD (Transaction Date Mean Difference).
